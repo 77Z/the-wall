@@ -1,2 +1,2 @@
-# the-wall
-A program to limit you mouse movement. 'cause why not?
+# The Wall
+A program to limit your mouse movement. 'cause why not?
